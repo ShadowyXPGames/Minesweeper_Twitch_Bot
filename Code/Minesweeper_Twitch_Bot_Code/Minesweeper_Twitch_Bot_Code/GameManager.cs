@@ -46,6 +46,7 @@ public class GameManager : MonoBehaviour {
     }
     
     private void WonGame() {
+        Debug.Log("Game won");
         text.SetActive(true);
     }
 
@@ -70,6 +71,7 @@ public class GameManager : MonoBehaviour {
         if(oneJoined == false) {
             oneJoined = true;
             players = new Dictionary<string, bool>();
+            text.SetActive(false);
         }
         if(!players.ContainsKey(player)) {
             players.Add(player, false);

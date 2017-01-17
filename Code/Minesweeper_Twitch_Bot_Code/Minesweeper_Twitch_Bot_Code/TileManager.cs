@@ -36,7 +36,7 @@ public class TileManager : MonoBehaviour {
     public IntVector2 gridSize;
     Tile[,] grid;
     [Range(0, 1)]
-    float percentBombs = 0.20625f;
+    float percentBombs = 0;
 
     int numTilesRevealedOrFlagged = 0;
     int numTiles = 0;
@@ -61,9 +61,11 @@ public class TileManager : MonoBehaviour {
 
     bool noReveals = true;
 
-    private void BeginGame(int width, int height, float percentBombs) {
+    private void BeginGame(int width, int height, float _percentBombs) {
         noReveals = true;
         numTiles = (width * height);
+        numTilesRevealedOrFlagged = 0;
+        percentBombs = _percentBombs;
         grid = new Tile[width, height];
         gridSize = new IntVector2(width, height);
         CallOnInitialize(gridSize);
