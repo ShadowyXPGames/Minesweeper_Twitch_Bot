@@ -1,0 +1,10 @@
+C:\Users\max\Desktop\Unity Stuff\Games\Minesweeper_Twitch_Bot\Code\Minesweeper_Twitch_Bot_Code\Minesweeper_Twitch_Bot_CodeTests\bin\Debug\Minesweeper_Twitch_Bot_CodeTests.dll
+C:\Users\max\Desktop\Unity Stuff\Games\Minesweeper_Twitch_Bot\Code\Minesweeper_Twitch_Bot_Code\Minesweeper_Twitch_Bot_CodeTests\bin\Debug\Minesweeper_Twitch_Bot_CodeTests.pdb
+C:\Users\max\Desktop\Unity Stuff\Games\Minesweeper_Twitch_Bot\Code\Minesweeper_Twitch_Bot_Code\Minesweeper_Twitch_Bot_CodeTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\max\Desktop\Unity Stuff\Games\Minesweeper_Twitch_Bot\Code\Minesweeper_Twitch_Bot_Code\Minesweeper_Twitch_Bot_CodeTests\bin\Debug\Minesweeper_Twitch_Bot_Code.dll
+C:\Users\max\Desktop\Unity Stuff\Games\Minesweeper_Twitch_Bot\Code\Minesweeper_Twitch_Bot_Code\Minesweeper_Twitch_Bot_CodeTests\bin\Debug\Minesweeper_Twitch_Bot_Code.pdb
+C:\Users\max\Desktop\Unity Stuff\Games\Minesweeper_Twitch_Bot\Code\Minesweeper_Twitch_Bot_Code\Minesweeper_Twitch_Bot_CodeTests\obj\Debug\Minesweeper_Twitch_Bot_CodeTests.csprojResolveAssemblyReference.cache
+C:\Users\max\Desktop\Unity Stuff\Games\Minesweeper_Twitch_Bot\Code\Minesweeper_Twitch_Bot_Code\Minesweeper_Twitch_Bot_CodeTests\obj\Debug\Minesweeper_Twitch_Bot_CodeTests.dll
+C:\Users\max\Desktop\Unity Stuff\Games\Minesweeper_Twitch_Bot\Code\Minesweeper_Twitch_Bot_Code\Minesweeper_Twitch_Bot_CodeTests\obj\Debug\Minesweeper_Twitch_Bot_CodeTests.pdb
+C:\Users\max\Desktop\Unity Stuff\Games\Minesweeper_Twitch_Bot\Code\Minesweeper_Twitch_Bot_Code\Minesweeper_Twitch_Bot_CodeTests\bin\Debug\UnityEngine.dll
+C:\Users\max\Desktop\Unity Stuff\Games\Minesweeper_Twitch_Bot\Code\Minesweeper_Twitch_Bot_Code\Minesweeper_Twitch_Bot_CodeTests\bin\Debug\UnityEngine.xml

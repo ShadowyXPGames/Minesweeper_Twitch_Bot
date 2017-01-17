@@ -1,0 +1,5 @@
+C:\Users\max\Desktop\Unity Stuff\Games\Minesweeper_Twitch_Bot\Assets\Plugins\Minesweeper_Twitch_Bot_Code.dll
+C:\Users\max\Desktop\Unity Stuff\Games\Minesweeper_Twitch_Bot\Assets\Plugins\Minesweeper_Twitch_Bot_Code.pdb
+C:\Users\max\Desktop\Unity Stuff\Games\Minesweeper_Twitch_Bot\Code\Minesweeper_Twitch_Bot_Code\Minesweeper_Twitch_Bot_Code\obj\Release\Minesweeper_Twitch_Bot_Code.csprojResolveAssemblyReference.cache
+C:\Users\max\Desktop\Unity Stuff\Games\Minesweeper_Twitch_Bot\Code\Minesweeper_Twitch_Bot_Code\Minesweeper_Twitch_Bot_Code\obj\Release\Minesweeper_Twitch_Bot_Code.dll
+C:\Users\max\Desktop\Unity Stuff\Games\Minesweeper_Twitch_Bot\Code\Minesweeper_Twitch_Bot_Code\Minesweeper_Twitch_Bot_Code\obj\Release\Minesweeper_Twitch_Bot_Code.pdb
